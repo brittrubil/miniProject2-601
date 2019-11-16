@@ -20,7 +20,6 @@ class Statistics:
 
     def __init__(self):
         super().__init__()
-        self.result = confidence_interval(a)
 
     def mean(self, a, b):
         self.result = mean(a, b)
@@ -82,7 +81,7 @@ class Statistics:
         self.result = correlation_coefficient(a)
         return self.result
 
-    def confidence_interval(self, a):
-        self.result = confidence_interval(a)
+    def confidence_interval(self, data, confidence=0.95):
+        self.result = confidence_interval(data)
         return self.result
 
