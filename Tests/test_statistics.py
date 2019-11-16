@@ -52,6 +52,11 @@ class MyTestCase(unittest.TestCase):
                              float(row['Result']))
             self.assertEqual(self.statistics.result, float(row['Result']))
 
+    def correlation_coefficient(self):
+        test_data = CsvReader("/Tests/Data/correlationcoefficient.csv").data
+        for row in test_data:
+            self.assertEqual(self.statistics.correlation_coefficient(row['Value 1']), float(row['Result']))
+            self.assertEqual(self.statistics.result, float(row['Result']))
 
 if __name__ == '__main__':
     unittest.main()

@@ -5,7 +5,7 @@ from Statistics.Deviation import deviation
 from Statistics.Proportion import proportion
 from Statistics.Zscore import zscore
 from Statistics.StandardScore import standardscore
-
+from Statistics.Correlation_Coefficient import correlation_coefficient
 
 class Statistics:
     data = []
@@ -38,3 +38,6 @@ class Statistics:
         self.result = standardscore(a, b, c)
         return self.result
 
+    def correlation_coefficient(self, a):
+        self.result = correlation_coefficient(a)
+        return self.result
