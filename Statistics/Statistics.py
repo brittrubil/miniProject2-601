@@ -18,6 +18,9 @@ from Statistics.Confidence_interval import confidence_interval
 class Statistics:
     data = []
 
+    def __init__(self):
+        super().__init__()
+
     def mean(self, a, b):
         self.result = mean(a, b)
         return self.result
