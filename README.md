@@ -69,8 +69,9 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani fixed spelling in README
 11-15-19 | Brittani updated Tasks on README
-11-15-19 | Brittani Updated Changelog on README
+11-15-19 | Brittani updated Changelog on README
 11-15-19 | Erika added variance to statistics.py and test_Calculator.py
 11-15-19 | Erika created variance.py and variance.csv
 11-15-19 | Erika added confidence_interval to statistics.py and test_Calculator.py
