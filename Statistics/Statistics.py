@@ -20,6 +20,7 @@ class Statistics:
 
     def __init__(self):
         super().__init__()
+        self.result = confidence_interval(a)
 
     def mean(self, a, b):
         self.result = mean(a, b)
@@ -84,3 +85,4 @@ class Statistics:
     def confidence_interval(self, a):
         self.result = confidence_interval(a)
         return self.result
+
