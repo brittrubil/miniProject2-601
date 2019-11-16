@@ -6,6 +6,11 @@
 
 [![Build Status](https://travis-ci.com/brittrubil/miniProject2-601.svg?branch=master)](https://travis-ci.com/brittrubil/miniProject2-601)
 
+#### Index
+
+* [Definitions]()
+* [Travis Link](https://travis-ci.com/brittrubil/miniProject2-601)
+
 #### Objective
 
 For this program you need to work in a team of 2-3 to create a statistical calculator.   In this project you need to either decorate or extend the calculator class you previously created individually.  For each calculation you need to create at least one test to check for the correct value and another test to check for invalid input.  Invalid input should throw an exception with a description of the problem.
@@ -64,6 +69,7 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani added Index to README File
 11-15-19 | Brittani updated README File 
 11-15-19 | Brittani created requirements.txt File
 11-15-19 | Brittani signed up for Travis and created Travis File
