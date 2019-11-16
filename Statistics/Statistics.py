@@ -12,8 +12,8 @@ from Statistics.SampleMean import sample_mean
 from Statistics.StandardScore import standardscore
 from Statistics.VariancePopulationProportion import populationproportion
 from Statistics.Sample_Proportion import sample_proportion
-from Statistics.Correlation_Coefficient import correlation_coefficient
-from Statistics.Confidence_Interval import confidence_interval
+from Statistics.Correlation_coefficient import correlation_coefficient
+from Statistics.Confidence_interval import confidence_interval
 
 class Statistics:
     data = []
