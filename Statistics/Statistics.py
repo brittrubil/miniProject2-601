@@ -7,6 +7,7 @@ from Statistics.Zscore import zscore
 from Statistics.Proportion import proportion
 from Statistics.Pvalue import pvalue
 from Statistics.StandardScore import standardscore
+from Statistics.Sample_Proportion import sample_proportion
 from Statistics.Correlation_Coefficient import correlation_coefficient
 from Statistics.Confidence_Interval import confidence_interval
 
@@ -57,4 +58,8 @@ class Statistics:
 
     def pvalue(self, a, b, c, d):
         self.result = pvalue(a, b, c, d)
+        return self.result
+
+    def sample_proportion(self, a, b, c):
+        self.result = sample_proportion(a, b, c)
         return self.result
