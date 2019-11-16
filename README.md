@@ -70,6 +70,9 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 Date | Description
 ---- | ----
 11-15-19 | Brittani updated Changelog on README
+11-15-19 | Brittani fixed CsvReader.py
+11-15-19 | Brittani fixed statistics.py
+11-15-19 | Brittani updated Changelog on README
 11-15-19 | Erika fixed order of files
 11-15-19 | Brittani fixed wrong file listed in Changelog on README
 11-15-19 | Brittani updated Tasks on README
