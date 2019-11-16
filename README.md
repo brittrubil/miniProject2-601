@@ -27,11 +27,11 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 - [x] Population Correlation Coefficient
 - [x] Confidence Interval
 - [x] Population Variance
-- [ ] P Value
-- [ ] Proportion
-- [ ] Sample Mean
-- [ ] Sample Standard Deviation
-- [ ] Variance of sample proportion
+- [x] P Value
+- [x] Proportion
+- [x] Sample Mean
+- [x] Sample Standard Deviation
+- [x] Variance of sample proportion
 
 #### In addition, your team must update your mini-project 1 with definitions and examples of the following terms:
 
@@ -69,6 +69,7 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani updated Tasks on README
 11-15-19 | Brittani updated Changelog on README
 11-15-19 | Brittani added populationproportion to statistics.py and test_statistics
 11-15-19 | Brittani created VariancePopulationProportion.py and populationproportion.csv
