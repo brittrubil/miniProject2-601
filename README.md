@@ -70,6 +70,17 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 Date | Description
 ---- | ----
 11-15-19 | Brittani updated Changelog on README
+11-15-19 | Brittani added populationproportion to statistics.py and test_statistics
+11-15-19 | Brittani created VariancePopulationProportion.py and populationproportion.csv
+11-15-19 | Brittani added populationdeviation to statistics.py and test_statistics
+11-15-19 | Brittani created PopulationDeviation.py and populationdeviation.csv
+11-15-19 | Brittani added samplemean to statistics.py and test_statistics
+11-15-19 | Brittani created SampleMean.py and SampleMean.csv
+11-15-19 | Brittani added sampleproportion to statistics.py and test_statistics
+11-15-19 | Brittani created Sample_Proportion.py and sample_proportion.csv
+11-15-19 | Brittani added pvalue to statistics.py and test_statistics
+11-15-19 | Brittani created pvalue.py and pvalue.csv
+11-15-19 | Brittani updated Changelog on README
 11-15-19 | Brittani Updated Tasks on README
 11-15-19 | Brittani fixed spelling in README
 11-15-19 | Brittani updated Tasks on README
