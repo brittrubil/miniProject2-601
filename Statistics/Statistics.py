@@ -4,6 +4,8 @@ from Statistics.Mode import mode
 from Statistics.Deviation import deviation
 from Statistics.Proportion import proportion
 from Statistics.Zscore import zscore
+from Statistics.StandardScore import standardscore
+
 
 class Statistics:
     data = []
@@ -30,5 +32,9 @@ class Statistics:
 
     def zscore(self, a, b, c):
         self.result = zscore(a, b, c)
+        return self.result
+
+    def standardscore(self, a, b, c):
+        self.result = standardscore(a, b, c)
         return self.result
 
