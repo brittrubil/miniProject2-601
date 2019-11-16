@@ -69,6 +69,7 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani updated Changelog on README
 11-15-19 | Brittani Updated Tasks on README
 11-15-19 | Brittani fixed spelling in README
 11-15-19 | Brittani updated Tasks on README
@@ -88,17 +89,19 @@ Date | Description
 11-15-19 | Brittani created __init__.py File
 11-15-19 | Brittani created setup.py File
 11-15-19 | Brittani created .gitignore File
+11-15-19 | Erika updated Changelog on README (Project 1)
 11-15-19 | Erika added Reading Files definition
 11-15-19 | Erika added CSV Files definition
 11-15-19 | Erika added Extend Class definition
 11-15-19 | Erika added Decorator definition
 11-15-19 | Erika added Factory definition
+11-15-19 | Brittani updated Changelog on README (Project 1)
 11-15-19 | Brittani added Constructor definition
 11-15-19 | Brittani added Unit Test definition
 11-15-19 | Brittani added Exception definition
 11-15-19 | Brittani added Method definition
 11-15-19 | Brittani added Property / Attribute definition
-11-15-19 | Christine updated README changelog and index
+11-15-19 | Christine updated README (Project 1) changelog and index
 11-15-19 | Christine changed File name to Project_2_Definitions
 11-15-19 | Christine added Static Definition
 11-15-19 | Christine added Object Definition
