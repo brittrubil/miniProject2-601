@@ -6,6 +6,7 @@ from Statistics.Variance import variance
 from Statistics.Zscore import zscore
 from Statistics.Proportion import proportion
 from Statistics.Pvalue import pvalue
+from Statistics.SampleMean import sample_mean
 from Statistics.StandardScore import standardscore
 from Statistics.Sample_Proportion import sample_proportion
 from Statistics.Correlation_Coefficient import correlation_coefficient
@@ -38,6 +39,10 @@ class Statistics:
 
     def zscore(self, a, b, c):
         self.result = zscore(a, b, c)
+        return self.result
+
+    def sample_mean(self, a, b, c):
+        self.result = sample_mean(a, b, c)
         return self.result
 
     def standardscore(self, a, b, c):
