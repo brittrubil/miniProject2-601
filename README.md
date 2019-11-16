@@ -22,11 +22,11 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 - [x] Mode
 - [x] Population Standard Deviation
 - [x] Variance of population proportion
-- [ ] Z-Score
-- [ ] Standardized score
-- [ ] Population Correlation Coefficient
-- [ ] Confidence Interval
-- [ ] Population Variance
+- [x] Z-Score
+- [x] Standardized score
+- [x] Population Correlation Coefficient
+- [x] Confidence Interval
+- [x] Population Variance
 - [ ] P Value
 - [ ] Proportion
 - [ ] Sample Mean
@@ -69,6 +69,7 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani updated Tasks on README
 11-15-19 | Brittani Updated Changelog on README
 11-15-19 | Erika added variance to statistics.py and test_Calculator.py
 11-15-19 | Erika created variance.py and variance.csv
