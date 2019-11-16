@@ -2,12 +2,14 @@ from Statistics.Mean import mean
 from Statistics.Median import median
 from Statistics.Mode import mode
 from Statistics.Deviation import deviation
-from Statistics.Proportion import proportion
+from Statistics.Variance import variance
 from Statistics.Zscore import zscore
+from Statistics.Proportion import proportion
+from Statistics.Pvalue import pvalue
 from Statistics.StandardScore import standardscore
 from Statistics.Correlation_Coefficient import correlation_coefficient
 from Statistics.Confidence_Interval import confidence_interval
-from Statistics.Variance import variance
+
 
 
 class Statistics:
@@ -51,4 +53,8 @@ class Statistics:
 
     def pvariance(self, a, b, c, d, e, f, g, h):
         self.result = variance(a, b, c, d, e, f, g, h)
+        return self.result
+
+    def pvalue(self, a, b, c, d):
+        self.result = pvalue(a, b, c, d)
         return self.result
