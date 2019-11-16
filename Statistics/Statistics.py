@@ -7,6 +7,8 @@ from Statistics.Zscore import zscore
 from Statistics.StandardScore import standardscore
 from Statistics.Correlation_Coefficient import correlation_coefficient
 from Statistics.Confidence_Interval import confidence_interval
+from Statistics.Variance import variance
+
 
 class Statistics:
     data = []
@@ -45,4 +47,8 @@ class Statistics:
 
     def confidence_interval(self, a):
         self.result = confidence_interval(a)
+        return self.result
+
+    def pvariance(self, a, b, c, d, e, f, g, h):
+        self.result = variance(a, b, c, d, e, f, g, h)
         return self.result
