@@ -3,6 +3,7 @@ from Statistics.Median import median
 from Statistics.Mode import mode
 from Statistics.Deviation import deviation
 from Statistics.Variance import variance
+from Statistics.PopulationDeviation import population_deviation
 from Statistics.Zscore import zscore
 from Statistics.Proportion import proportion
 from Statistics.Pvalue import pvalue
@@ -47,6 +48,10 @@ class Statistics:
 
     def standardscore(self, a, b, c):
         self.result = standardscore(a, b, c)
+        return self.result
+
+    def populationproportion(self, a, b):
+        self.result = populationproportion(a, b)
         return self.result
 
     def correlation_coefficient(self, a):
