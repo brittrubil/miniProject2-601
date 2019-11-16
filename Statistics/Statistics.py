@@ -6,6 +6,7 @@ from Statistics.Proportion import proportion
 from Statistics.Zscore import zscore
 from Statistics.StandardScore import standardscore
 from Statistics.Correlation_Coefficient import correlation_coefficient
+from Statistics.Confidence_Interval import confidence_interval
 
 class Statistics:
     data = []
@@ -40,4 +41,8 @@ class Statistics:
 
     def correlation_coefficient(self, a):
         self.result = correlation_coefficient(a)
+        return self.result
+
+    def confidence_interval(self, a):
+        self.result = confidence_interval(a)
         return self.result

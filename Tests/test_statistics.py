@@ -58,5 +58,10 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(self.statistics.correlation_coefficient(row['Value 1']), float(row['Result']))
             self.assertEqual(self.statistics.result, float(row['Result']))
 
+    def confidence_interval(self):
+            self.assertEqual(self.statistics.confidence_interval(row['Value 1']), float(row['Result']))
+            self.assertEqual(self.statistics.result, float(row['Result']))
+        
+
 if __name__ == '__main__':
     unittest.main()
