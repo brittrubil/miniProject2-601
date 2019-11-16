@@ -54,23 +54,25 @@ For this program you need to work in a team of 2-3 to create a statistical calcu
 
 #### Submission  and Project Requirements:
 
-- [ ] You must submit a link to your Github for Mini Project 1 (updated terms) and 2 (statistical calculator)
-- [ ] You must submit a link to Travis CI running your tests successfully
-- [ ] You must put a travis CI build status on your Readme.MD file
-- [ ] You must have commits labeled feature, fix, or task
-- [ ] You must not repeat yourself
-- [ ] You need a module for reading CSV files
-- [ ] You need a module for statistics
-- [ ] You need a module for calculator
-- [ ] You need to throw exceptions when there is a problem such as file not found.
-- [ ] You must have tests for you calculator, statistics, and CSV file reading modules.   
+- [x] You must submit a link to your Github for Mini Project 1 (updated terms) and 2 (statistical calculator)
+- [x] You must submit a link to Travis CI running your tests successfully
+- [x] You must put a travis CI build status on your Readme.MD file
+- [x] You must have commits labeled feature, fix, or task
+- [x] You must not repeat yourself
+- [x] You need a module for reading CSV files
+- [x] You need a module for statistics
+- [x] You need a module for calculator
+- [x] You need to throw exceptions when there is a problem such as file not found.
+- [x] You must have tests for you calculator, statistics, and CSV file reading modules.   
 
 #### Change Log
 
 Date | Description
 ---- | ----
+11-15-19 | Brittani Updated Tasks on README
+11-15-19 | Brittani fixed spelling in README
 11-15-19 | Brittani updated Tasks on README
-11-15-19 | Brittani Updated Changelog on README
+11-15-19 | Brittani updated Changelog on README
 11-15-19 | Erika added variance to statistics.py and test_Calculator.py
 11-15-19 | Erika created variance.py and variance.csv
 11-15-19 | Erika added confidence_interval to statistics.py and test_Calculator.py
