@@ -71,30 +71,30 @@ Date | Description
 ---- | ----
 11-15-19 | Brittani updated Tasks on README
 11-15-19 | Brittani updated Changelog on README
-11-15-19 | Brittani added populationproportion to statistics.py and test_statistics
+11-15-19 | Brittani added populationproportion to statistics.py and test_statistics.py
 11-15-19 | Brittani created VariancePopulationProportion.py and populationproportion.csv
-11-15-19 | Brittani added populationdeviation to statistics.py and test_statistics
+11-15-19 | Brittani added populationdeviation to statistics.py and test_statistics.py
 11-15-19 | Brittani created PopulationDeviation.py and populationdeviation.csv
-11-15-19 | Brittani added samplemean to statistics.py and test_statistics
+11-15-19 | Brittani added samplemean to statistics.py and test_statistics.py
 11-15-19 | Brittani created SampleMean.py and SampleMean.csv
-11-15-19 | Brittani added sampleproportion to statistics.py and test_statistics
+11-15-19 | Brittani added sampleproportion to statistics.py and test_statistics.py
 11-15-19 | Brittani created Sample_Proportion.py and sample_proportion.csv
-11-15-19 | Brittani added pvalue to statistics.py and test_statistics
+11-15-19 | Brittani added pvalue to statistics.py and test_statistics.py
 11-15-19 | Brittani created pvalue.py and pvalue.csv
 11-15-19 | Brittani updated Changelog on README
 11-15-19 | Brittani Updated Tasks on README
 11-15-19 | Brittani fixed spelling in README
 11-15-19 | Brittani updated Tasks on README
 11-15-19 | Brittani updated Changelog on README
-11-15-19 | Erika added variance to statistics.py and test_Calculator.py
+11-15-19 | Erika added variance to statistics.py and test_statistics.py
 11-15-19 | Erika created variance.py and variance.csv
-11-15-19 | Erika added confidence_interval to statistics.py and test_Calculator.py
+11-15-19 | Erika added confidence_interval to statistics.py and test_statistics.py
 11-15-19 | Erika created confidence_interval.py and confidence_interval.csv
-11-15-19 | Erika added correlation_coefficient to statistics.py and test_Calculator.py
+11-15-19 | Erika added correlation_coefficient to statistics.py and test_statistics.py
 11-15-19 | Erika created correlation_coefficient.py and correlation_coefficient.csv
-11-15-19 | Erika added standardscore to statistics.py and test_Calculator.py
+11-15-19 | Erika added standardscore to statistics.py and test_statistics.py
 11-15-19 | Erika created standardscore.py and standardscore.csv
-11-15-19 | Erika added zscore to statistics.py and test_Calculator.py
+11-15-19 | Erika added zscore to statistics.py and test_statistics.py
 11-15-19 | Erika created zscore.py and zscore.csv
 11-15-19 | Brittani fixed spelling in changelog on README
 11-15-19 | Brittani updated Changelog and Tasks on README
@@ -123,15 +123,15 @@ Date | Description
 11-15-19 | Christine added Don't Repeat Yourself definition
 11-15-19 | Christine added How Python uses Indentation to control Flow definition
 11-15-19 | Christine created Definitions Project 2 File
-11-15-19 | Erika added proportion to statistics.py and test_Calculator.py
+11-15-19 | Erika added proportion to statistics.py and test_statistics.py
 11-15-19 | Erika created proportion.py and proportion.csv
-11-15-19 | Erika added deviation to statistics.py and test_Calculator.py
+11-15-19 | Erika added deviation to statistics.py and test_statistics.py
 11-15-19 | Erika created deviation.py and deviation.csv
-11-15-19 | Erika added mode to statistics.py and test_Calculator.py
+11-15-19 | Erika added mode to statistics.py and test_statistics.py
 11-15-19 | Erika created mode.py and mode.csv
-11-15-19 | Erika added median to statistics.py and test_Calculator.py
+11-15-19 | Erika added median to statistics.py and test_statistics.py
 11-15-19 | Erika created median.py and median.csv
-11-15-19 | Erika added mean to statistics.py and test_Calculator.py
+11-15-19 | Erika added mean to statistics.py and test_statistics.py
 11-15-19 | Erika created mean.py and mean.csv
 11-15-19 | Erika added square to calculator.py and test_Calculator.py
 11-15-19 | Erika created square.py and square.csv
