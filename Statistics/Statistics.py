@@ -2,6 +2,8 @@ from Statistics.Mean import mean
 from Statistics.Median import median
 from Statistics.Mode import mode
 from Statistics.Deviation import deviation
+from Statistics.Proportion import proportion
+
 
 class Statistics:
     data = []
@@ -20,4 +22,8 @@ class Statistics:
 
     def stdev(self, a, b, c, d, e):
         self.result = deviation(a, b, c, d, e)
+        return self.result
+
+    def proportion(self, a, b, c):
+        self.result = proportion(a, b, c)
         return self.result
